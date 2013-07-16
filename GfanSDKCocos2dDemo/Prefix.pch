@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'GfanSDKCocos2dDemo' target in the 'GfanSDKCocos2dDemo' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
