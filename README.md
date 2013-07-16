@@ -3,6 +3,8 @@ GfanSDKiOS Cocos2d Demo
 
 GfanSDK for iOS Cocos2d Demo
 
+环境: Xcode 4.6, cocos2d-x-2.1.4
+
 说明
 
 1. 请详细阅读"机锋支付SDK for iOS.pdf"文档，以及本Demo和Demo中的说明部分
